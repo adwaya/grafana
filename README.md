@@ -20,6 +20,6 @@ brew install grafana
 The service will be running on the url
 `http://localhost:3000/login`
 
-- Credentials below
+- Credentials :
   _username_: `admin`
   _password_: `admin`
